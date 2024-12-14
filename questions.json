@@ -1,0 +1,39 @@
+[
+  
+  {
+    "questionNo": "Q2",
+    "question": "In a survey, 100 customers rate a product as follows: 70 rate it 4 stars, 20 rate it 5 stars, and 10 rate it 3 stars. What is the most frequent customer rating?",
+    "options": [
+      "3 stars",
+      "4 stars",
+      "5 stars",
+      "No mode"
+    ],
+    "correct": 1,
+    "explanation": "The mode is the most appropriate measure of central tendency here because it represents the most commonly occurring value in the data set, which is 4 stars."
+  },
+  {
+    "questionNo": "Q3",
+    "question": "A researcher gathers data on the age of participants in a senior fitness program. The ages are as follows: 62, 65, 67, 69, 70, 72, 75, 78, 80, 82, 85. The researcher wants to describe the typical participant’s age. Which measure of central tendency should be used?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correct": 1,
+    "explanation": "The data are relatively symmetric, but considering the context of ages where a central value is more representative, the median is the best choice. It describes the middle age in the data, minimizing the effect of unusually young or old participants. The median age is 72."
+  },
+  {
+    "questionNo": "Q4",
+    "question": "A local park records the number of visitors it receives each day over a week. The number of visitors recorded from Monday to Sunday are as follows: 120, 135, 150, 165, 130, 140, and 155. The park manager needs to report the median number of visitors to the city council. What is the median number of visitors per day at the park?",
+    "options": [
+      "140",
+      "145",
+      "150",
+      "155"
+    ],
+    "correct": 2,
+    "explanation": "To find the median, arrange the numbers in ascending order: 120, 130, 135, 140, 150, 155, 165. The median is the middle number in a set of numbers, which divides the data into two halves. Since there are seven days, the fourth number is the median. The median number of visitors per day is 150, representing a typical day at the park more accurately by excluding the influence of unusually high or low visitor days."
+  }
+]
